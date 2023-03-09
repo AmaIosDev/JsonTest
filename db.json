@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "BannedID": "Sincere@april.biz",
+    "NativeID": "Leanne Graham",
+    "InterstitialID": "Bret",
+    "BannerID": "Sincere@april.biz",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
