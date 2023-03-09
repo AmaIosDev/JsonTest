@@ -1,9 +1,16 @@
 [
   {
-    "id": "Admob",
-    "isActivate" : True,
-    "BannerID": "ca-app-pub-3940256099942544/6300978111",
-    "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
-    "NativeID": "ca-app-pub-3940256099942544/2247696110"
+    "Admob" : {
+      "isActivate" : True,
+      "BannerID": "ca-app-pub-3940256099942544/6300978111",
+      "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
+      "NativeID": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "FAN" : {
+      "isActivate" : False,
+      "BannerID": "ca-app-pub-3940256099942544/6300978111",
+      "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
+      "NativeID": "ca-app-pub-3940256099942544/2247696110"
+    }
   }
 ]
