@@ -5,25 +5,5 @@
     "NativeID": "ca-app-pub-3940256099942544/2247696110",
     "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
     "BannerID": "ca-app-pub-3940256099942544/6300978111"
-  },
-  {
-    "id": 2,
-    "AdFANActive": false,
-    "NativeID": "ca-app-pub-3940256099942544/2247696110",
-    "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
-    "BannerID": "ca-app-pub-3940256099942544/6300978111"
-  },
-  {
-    "id": 3,
-    "AdAPLovinActive": false,
-    "NativeID": "ca-app-pub-3940256099942544/2247696110",
-    "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
-    "BannerID": "ca-app-pub-3940256099942544/6300978111"
-  },
-  {
-    "id": 4,
-    "AdCPAActive": false,
-    "CPAImage": "ca-app-pub-3940256099942544/2247696110",
-    "CPALink": "ca-app-pub-3940256099942544/1033173712",
   }
 ]
