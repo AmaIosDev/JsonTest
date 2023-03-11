@@ -1,5 +1,33 @@
 [
-  {
+  AdMob : {
+    "id":1,
+    "AdmobAcitive" : true,
+    "NativeID": "ca-app-pub-3940256099942544/2247696110",
+    "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
+    "BannerID": "ca-app-pub-3940256099942544/6300978111"
+  },
+  FAN : {
+    "id":1,
+    "AdmobAcitive" : true,
+    "NativeID": "ca-app-pub-3940256099942544/2247696110",
+    "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
+    "BannerID": "ca-app-pub-3940256099942544/6300978111"
+  },
+  AppLovin : {
+    "id":1,
+    "AdmobAcitive" : true,
+    "NativeID": "ca-app-pub-3940256099942544/2247696110",
+    "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
+    "BannerID": "ca-app-pub-3940256099942544/6300978111"
+  },
+  UnityAd : {
+    "id":1,
+    "AdmobAcitive" : true,
+    "NativeID": "ca-app-pub-3940256099942544/2247696110",
+    "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
+    "BannerID": "ca-app-pub-3940256099942544/6300978111"
+  },
+  CPA : {
     "id":1,
     "AdmobAcitive" : true,
     "NativeID": "ca-app-pub-3940256099942544/2247696110",
