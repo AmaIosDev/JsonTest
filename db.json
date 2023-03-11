@@ -8,28 +8,28 @@
   },
   "FAN" : {
     "id":2,
-    "AdmobAcitive" : true,
+    "AdmobAcitive" : false,
     "NativeID": "ca-app-pub-3940256099942544/2247696110",
     "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
     "BannerID": "ca-app-pub-3940256099942544/6300978111"
   },
   "AppLovin" : {
     "id":3,
-    "AdmobAcitive" : true,
+    "AdmobAcitive" : false,
     "NativeID": "ca-app-pub-3940256099942544/2247696110",
     "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
     "BannerID": "ca-app-pub-3940256099942544/6300978111"
   },
   "UnityAd" : {
     "id":4,
-    "AdmobAcitive" : true,
+    "AdmobAcitive" : false,
     "NativeID": "ca-app-pub-3940256099942544/2247696110",
     "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
     "BannerID": "ca-app-pub-3940256099942544/6300978111"
   },
   "CPA" : {
     "id":5,
-    "AdmobAcitive" : true,
+    "AdmobAcitive" : false,
     "NativeID": "ca-app-pub-3940256099942544/2247696110",
     "InterstitialID": "ca-app-pub-3940256099942544/1033173712",
     "BannerID": "ca-app-pub-3940256099942544/6300978111"
