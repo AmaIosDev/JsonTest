@@ -1,6 +1,5 @@
 {
-    "AdsController" : 
-	    {"NetworkAds": "facebook",
+    	"NetworkAds": "facebook",
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -14,6 +13,6 @@
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
         "ImageBannerURL" : "https://www.google.com"
-	}	
+		
   
 }
