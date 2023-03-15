@@ -1,6 +1,7 @@
 {	
 	"AdNetwork": {"NetworkAds": "Facebook"},
-	"IsAdsActivates": false,
+	"IsInterActivate": true,
+	"IsBannerActivate": false,
 	"ClicksBeforeAds": 3,
 	"NbmsgLimit" : 2,
 	"OpenAPIToken" : "",
