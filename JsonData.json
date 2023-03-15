@@ -1,5 +1,7 @@
 {	
 	"AdNetwork": {"NetworkAds": "Facebook"},
+	"IsAdsActivates": false,
+	"ClicksBeforeAds": 2,
 	    
 	"Admob": {"BannerAdmob": "1686650371769765_1686690278432441",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
