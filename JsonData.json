@@ -1,7 +1,7 @@
 {	
 	"AdNetwork": {"NetworkAds": "Facebook"},
 	"IsAdsActivates": false,
-	"ClicksBeforeAds": 2,
+	"ClicksBeforeAds": 6,
 	"NbmsgLimit" : 5,
 	"OpenAPIToken" : "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",
 	"Admob": {"BannerAdmob": "1686650371769765_1686690278432441",
