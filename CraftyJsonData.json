@@ -5,8 +5,8 @@
 	"ClicksBeforeAds": 1,
 	"NbmsgLimit" : 10,
 	"OpenAPIToken" : "",
-	"Admob": {"BannerAdmob": "ca-app-pub-1663766172109372/1655371568",
-        "InterstitialAdmob": "ca-app-pub-1663766172109372/7189116889",
+	"Admob": {"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110"},
 
 	"Fan": {"BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
